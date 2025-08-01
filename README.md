@@ -8,7 +8,7 @@ Projeto simples de flashcards criado com foco em aprendizado de HTML e CSS, onde
 
 ## Demonstração
 
-<img src="u8jAgNR.gif" alt="Demonstração do projeto" width="80%">
+<img src="assets/preview.gif" alt="Demonstração do projeto" width="80%">
 
 ---
 
